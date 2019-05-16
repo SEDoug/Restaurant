@@ -1,7 +1,7 @@
 # restaurant-full-stack update 1
 This is a data driven web application. 
 
-Created by @DougMacGregor || http://doug-macgregor.webflow.io/projects/mobile-apps <br>
+Created by @DougMacGregor || <br>
 Seeking a broader field and desire to do work in full stack & mobile development.
 <hr>
 
